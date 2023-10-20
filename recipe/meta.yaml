@@ -17,7 +17,7 @@ build:
     - pystache-test = pystache.commands.test:main
 
 requirements:
-  build:
+  host:
     - python
     - setuptools
     - setuptools-scm 7.1.0
