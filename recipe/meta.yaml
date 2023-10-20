@@ -20,7 +20,7 @@ requirements:
   host:
     - python
     - setuptools
-    - setuptools-scm 7.1.0
+    - setuptools-scm
     - wheel
     - pip
   run:
