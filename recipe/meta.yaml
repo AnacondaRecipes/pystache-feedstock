@@ -42,7 +42,7 @@ test:
     - pip
 
 about:
-  home: http://github.com/defunkt/pystache
+  home: https://github.com/defunkt/pystache
   license: MIT
   license_file: LICENSE
   license_family: MIT
@@ -51,8 +51,8 @@ about:
     Pystache is a Python implementation of Mustache. Mustache is a framework-agnostic, logic-free templating system
     inspired by ctemplate and et. Like ctemplate, Mustache emphasizes separating logic from presentation: it is
     impossible to embed application logic in this template language.
-  doc_url: http://github.com/defunkt/pystache
-  dev_url: http://github.com/defunkt/pystache
+  doc_url: https://github.com/defunkt/pystache
+  dev_url: https://github.com/defunkt/pystache
 
 extra:
   recipe-maintainers:
